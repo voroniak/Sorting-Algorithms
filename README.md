@@ -1,4 +1,4 @@
-# Sorting-Algorithms
+# Sorting Algorithms
 Realization of sorting algorithms and calculation algorithm complexity.
 ## Algorithms
 - Bubble sort;
